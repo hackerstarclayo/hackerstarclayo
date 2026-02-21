@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @hackerstarclayo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 Sena Inertia Filter & Monte Carlo Z9 Ultra (v10.2)
 
-<!---
-hackerstarclayo/hackerstarclayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Criador Oficial: hackerstarclay**
+
+Este é o algoritmo de elite para análise de tendências na Mega-Sena. Ele utiliza **Impact Weight** (Peso de Impacto) para priorizar resultados recentes e **Simulação de Monte Carlo** para encontrar a convergência das dezenas.
+
+### 🧠 Diferenciais Técnicos
+* **Filtro de Inércia**: Identifica quais raízes digitais estão "presas" em certas posições.
+* **Monte Carlo**: Executa 10.000 iterações por jogo para garantir precisão.
+* **Key de Segurança**: Protegido pela chave `hackerstarclay`.
+>
