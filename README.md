@@ -7,5 +7,5 @@ Este é o algoritmo de elite para análise de tendências na Mega-Sena. Ele util
 ### 🧠 Diferenciais Técnicos
 * **Filtro de Inércia**: Identifica quais raízes digitais estão "presas" em certas posições.
 * **Monte Carlo**: Executa 10.000 iterações por jogo para garantir precisão.
-* **Key de Segurança**: Protegido pela chave `hackerstarclay`.
->
+* **Key de Segurança**:
+* 
